@@ -1,2 +1,0 @@
-# codetres
-consulta
